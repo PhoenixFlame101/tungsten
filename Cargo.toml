@@ -13,3 +13,4 @@ serde = { version = "1.0.197", features = ["derive"] }
 serde_json = "1.0.114"
 
 clap = "4.5.2"
+sha2 = "0.10.8"
